@@ -1,1 +1,7 @@
 /__pycache__
+# /*.log
+# /*.json
+# /trader.py
+# /backtests
+# /round0
+.env
